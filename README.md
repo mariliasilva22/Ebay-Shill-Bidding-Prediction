@@ -1,5 +1,5 @@
 # Ebay-Shill-Bidding-Prediction
-The main goal of this project is to use classification algorithms to predict shill bids in the future. 
+Using classification algorithms to predict shill bids in the future. Exploratory Data Analysis| PCA| LDA| SMOTE| Decision Tree Classifier| K-nearest Neighbors| Logistic Regression. 
 
 ## 1. Introduction
 In this project, I will be working with the dataset Shill biddig available at: https://archive.ics.uci.edu/ml/datasets/Shill+Bidding+Dataset.
